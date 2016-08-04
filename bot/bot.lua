@@ -274,7 +274,7 @@ function create_gbans( )
 end
 
 function on_our_id (id)
-  our_id = 213575781
+  our_id = id
 end
 
 function on_user_update (user, what)
