@@ -273,8 +273,8 @@ function create_gbans( )
   print ('saved gbans into ./data/gbans.lua')
 end
 
-function on_our_id (id)
-  our_id = id
+function on_our_id (213575781)
+  our_id = 213575781
 end
 
 function on_user_update (user, what)
